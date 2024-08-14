@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/riyagupta/Desktop/Data Structures/output/Doubly_reverse'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z9createDLLv, symObjAddr: 0x0, symBinAddr: 0x100003D24, symSize: 0x100 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _head, symObjAddr: 0xAE8, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x8E, offset: 0x8E, size: 0x8, addend: 0x0, symName: _tail, symObjAddr: 0xAF0, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0xA5, offset: 0xA5, size: 0x8, addend: 0x0, symName: __Z9createDLLv, symObjAddr: 0x0, symBinAddr: 0x100003D24, symSize: 0x100 }
+  - { offsetInCU: 0xDB, offset: 0xDB, size: 0x8, addend: 0x0, symName: __Z7displayv, symObjAddr: 0x100, symBinAddr: 0x100003E24, symSize: 0x6C }
+  - { offsetInCU: 0x103, offset: 0x103, size: 0x8, addend: 0x0, symName: __Z10reverseDLLv, symObjAddr: 0x16C, symBinAddr: 0x100003E90, symSize: 0x78 }
+  - { offsetInCU: 0x139, offset: 0x139, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1E4, symBinAddr: 0x100003F08, symSize: 0x30 }
+...
