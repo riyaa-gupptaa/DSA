@@ -85,6 +85,8 @@
     "BinarySearch.C": "cpp",
     "Bubble_sort.C": "cpp",
     "Insertion_Sort.C": "cpp",
-    "Selection_Sort.C": "cpp"
+    "Selection_Sort.C": "cpp",
+    "quick_Sort.C": "cpp",
+    "Merge_Sort.C": "cpp"
   }
 }
